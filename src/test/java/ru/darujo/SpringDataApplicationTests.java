@@ -1,4 +1,4 @@
-package ru.darujo.springdata;
+package ru.darujo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
